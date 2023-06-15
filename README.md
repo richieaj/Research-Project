@@ -1,5 +1,5 @@
 # Research-Project
-A Pre‐trained YOLO‐v5 model and an Image Subtraction Approach for Printed Circuit Board Defect Detection
+## A Pre‐trained YOLO‐v5 model and an Image Subtraction Approach for Printed Circuit Board Defect Detection
 
 ## Purpose of this research 
   Almost every electronic product used regularly contains printed circuit boards, which are also used for security applications and for business purposes. Manual visual inspection of anomalies and faults in circuit boards during manufacture and usage is challenging. Due to a shortage of training data and the uncertainty of new abnormalities, identifying undiscovered flaws is complicated. The YOLO-v5 technique on a customized PCB dataset is used in the study to incorporate computer vision to detect six potential PCB defects. The algorithm is designed to be feasible, deliver precise findings, and operate at a considerable pace to be effective. Image subtraction technique is also implemented to detect flaws in printed circuit boards. The structural similarity index, a perception-based method, gauges how similar non-defective and defective PCB images are.
