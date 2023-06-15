@@ -43,3 +43,10 @@ An observation that can be made from the outputs is that many defects are not de
 ## Conclusion
 
 The work uses two separate methods for finding anomalies on single-sided printed circuit boards: YOLO-v5 and an image subtraction approach. These techniques might be used to overcome the challenges associated with the manual examination of printed circuit board flaws. The YOLO-v5 model's flaw detection suggests that the model is overfitted since it performs exceptionally well on synthetic data but poorly on actual data. Due to the need for highresolution pictures in order to get accurate findings, the image subtraction approach utilized is likewise not particularly dependable. The fundamental issue is the scarcity of publicly accessible PCB industry data that is required. However, in terms of computing speed and training accuracy, YOLO-v5 may be regarded as an effective model for detecting printed circuit board defects.For improved performance and speed, future works could implement the most recent version of YOLO, such as the YOLO-v7 algorithm. Strategies to expand the amount of publicly available industry data might also be taken into consideration so that better accuracy could be achieved for defect detectors in printed circuit boards. Future efforts couldtake into account more varieties of flaws and early detectionas well.
+
+
+# Co Authored by 
+
+### Anagha Lailesh. K
+### Dr.Preethi. N
+
